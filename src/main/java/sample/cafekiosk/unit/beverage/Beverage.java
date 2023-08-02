@@ -1,4 +1,4 @@
-package sample.cafekiosk.unit;
+package sample.cafekiosk.unit.beverage;
 
 /**
  * @since       2023.08.02
